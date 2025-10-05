@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sowtex-main",
+  "private_key_id": "abfa23071b0fea2bdb861e90d47b7ccad55eb9ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJp4J0wWLlvbcb\nRUkJqbdm1Zgd4mkLShR9S6ul9XRwgGIkDqkua1F6yCEOucMnUHUYYcNZYVDzl7fj\nla1OVwn5oTfAOZTxOj3HUp+KkFlPRVButC+G9RUA1YApMckbR2xfB5t7lAEHhm/s\nR8y8lfNqslm5W6pkv9tU6JbqtdIZqueUAnZs7zsPAaWdMzJ7EfQ4+k7GZ4orBgHF\nhgnfSor53SL7zuXjhYVvRdLMtWQtyoJTgpHaB9mzkANhNnM2lTR441tc5h3XMByU\nc8IbZ0lWZAQ+nuJTGdEfA2z+n/KsackyyP6sfraNKExoZxzjzKPyHghLzEoPCuTc\nBF2q0yCLAgMBAAECggEAHN0nOoMRHtqq7PJb4/rbpOffNYKE5U1zOq6sIRMjLunm\nzPZ0Qjqw7Pwxuc6JH9rPsppmaygXfZEyjGw45EUSc8gfF2/74RN5vaAWn1ojY8oD\ncJ/F9calfPsSXyh10BEccqBqIaQrtDdf/y1qdsvtOFEoWp8Y+AF7lDRpSwCU1Ct1\n3CKZQdBVWUOzmNXjKaS+F1FWt6oTva544fn5GILu3cnrp/eRObP2JVjyTjML65Va\nK2smXLsMirlmR+ZxjT2QKxYkq4XiGn9NJWHw6PgBHcDPqy3+qCB1FbPmagACwkuu\nkjauGJ5biCFAeOT29OuCoA0bYsVyJEcoz3O90kxzoQKBgQDvcOOyxQk6BO7uf79G\n0kC5xUYhFKopSw7VqVSO64cfwiZfdy9W5w1mdgci7kIzbK3CiOQ3V4ft4qvjEq8m\nynADqb39uJ0z7MgwQx8Xi5hpOoFoKWDxjY6yJ/8f+Dud/Tf/3BQsKxHKADjyGRBq\nTC53cH1d+PbVh8PXMV6lddK8MwKBgQDXmaNR9CiKyvxnoaRsoJ1ZDTxWWPPGXVAD\ngiBCGkcxV7/SL18s/35K7f1dIVjFMhhjtitlJ/wzxvovhHPKut/RJgLcBcS2TwOF\n8VSj3CQcAiS45tJLWn/KLdfZ4aEqy2/WwAfLTUnzveiWKZD1BQno4AXDc7kaYy7A\n7Zo0aaCySQKBgQCPmgvlpohPFLBbt5/3EJgjEi5qHqOjGlHuUJzXDmi+4kjzTl7E\n5tPBlJ3ZFD3963sWxdThYAy03hIqoIUNZbHicIXyyir1/lddopPeIimpSp5b4x0y\nIazoKla3TMAsk7ZnLA2pI7eKh7GfeOrAZaoklgGKP4uCKueIgyJ5Z32YwwKBgQDI\nrl+RBx09o5extonf+ti7bVB+ZynxuCWkPllcbi1aRn1sXV/P+LlLcZ7mMwX395sw\nJP7bl45ve4Sg+j71s2Blw2Xh+xSRRZbX9Dx+kYii8XPREDkqnsBYJrfGPPjRZq9h\nSzl2CSkO0fRO4b3l85y3wN5cgbkIUM3SEtf4dWF40QKBgQDEzK9t6j6476rkf4Bt\npkfOUOzZ9Wt2dPAgnZ3BCzm/ykXzo11J6oTfg4nJ/gXmGYD9VH5okQOY4cFudnCw\nEv53m1O+R8SOZ8MHtYTRBauuLHnlq1wW/Yxbap9iLoBnec0z72fbWFI3iyq+lyQk\nvtxL4h36QwyINRpHCK1S2sQIPg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sowtexnetwork@sowtex-main.iam.gserviceaccount.com",
+  "client_id": "103907305719195211249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sowtexnetwork%40sowtex-main.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
