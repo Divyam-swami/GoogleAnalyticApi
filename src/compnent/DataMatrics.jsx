@@ -19,7 +19,7 @@ const Dashboard = () => {
   const fetchData = async (start, end) => {
     try {
       setLoading(true);
-      const res = await axios.get('http://localhost:3000/api/dashboard/all', {
+      const res = await axios.get('https://googleanalyticapi-1.onrender.com/api/dashboard/all', {
         params: { startDate: start, endDate: end },
       });
       setMetrics(res.data);
@@ -60,7 +60,7 @@ const Dashboard = () => {
 
 
 
-      await axios.post("http://localhost:3000/api/sheet/add", payload);
+      await axios.post("https://googleanalyticapi-1.onrender.com/api/sheet/add", payload);
 
       alert("✅ Data pushed to Google Sheet in one row per date!");
     } catch (err) {
