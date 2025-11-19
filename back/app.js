@@ -2,12 +2,14 @@ const express = require('express');
 const cors = require('cors');
 const { BetaAnalyticsDataClient } = require('@google-analytics/data');
 const { google } = require('googleapis');
-const key = require('./sowtex-main-abfa23071b0f.json');
+const fs = require("fs");
 const app = express();
 const PORT = 3000;
 app.use(cors());
 app.use(express.json());
-
+const key = JSON.parse(
+  fs.readFileSync("./sowtex-main-abfa23071b0f.json", "utf8").replace(/\\n/g, "\n")
+);
 // --------------------- GA4 SETUP --------------------- //
 const gaClient = new BetaAnalyticsDataClient({
   credentials: {
